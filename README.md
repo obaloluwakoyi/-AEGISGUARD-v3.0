@@ -7,7 +7,7 @@
 ---
 
 ## Quick Start
-
+Live demo; https://awjxeianz3wrm2fpdyryzt.streamlit.app/
 ```bash
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
